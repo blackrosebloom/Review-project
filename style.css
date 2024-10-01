@@ -1,0 +1,33 @@
+.Body{
+    background-color:  rgb(121, 121, 121);
+}
+
+.top{
+    background-image: url(images/aidan-hancock-8RU4OuA6Yug-unsplash.png);
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.medium{
+
+ text-align: center;
+ padding:10%
+}
+
+
+.topmiddle{
+    background-color: rgb(7, 170, 175);
+
+} 
+
+.bottom{
+    background-color: rgb(7, 167, 167);
+    background-size: cover;
+}
+
+.end{
+    background-color: rgb(7, 7, 7);
+    color:white;
+
+}
